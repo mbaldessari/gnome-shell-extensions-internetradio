@@ -1,0 +1,40 @@
+/* vim: set sw=4:ts=4:et */
+.track-cover {
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    border-radius: 2px;
+}
+
+.track-infos {
+    padding-left: 1em;
+    width: 15em;
+}
+
+.missing-plugin {
+    font-weight: bold;
+    font-size: 2.1em;
+}
+
+.track-title {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.track-info {
+    padding-top: 0.2em;
+    font-size: 0.9em;
+}
+
+.track-radio {
+    padding-top: 0.2em;
+    font-size: 0.9em;
+}
+
+.track-rating {                                   
+    padding-top: 0.15em;
+    font-size: 0.9em;
+}    
+
+.play-button {
+    icon-size: 0.6em;
+    padding-right: .4em;
+}

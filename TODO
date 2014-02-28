@@ -1,0 +1,4 @@
+- Multiple stream associated to one radio station (check for network issue and cycle streams)
+- Find a better way to manage radio stations (gsettings does not seem to be too useful for multiple dictionaries)
+- When you pause a stream and wait long enough and play again, it will play the buffered stuff and then stop
+- Fix for latest gnome-shell (debug log output changed there as well)
